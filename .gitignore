@@ -157,3 +157,7 @@ cython_debug/
 CNN/.DS_Store
 .DS_Store
 CNN/Lab_2.pdf
+CNNAutoencoders/train_cache.data-00000-of-00001
+CNNAutoencoders/val_cache.data-00000-of-00001
+CNN/datasets/.train_signs.h5.icloud
+CNN/datasets/train_signs.h5
