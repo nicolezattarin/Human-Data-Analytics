@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+
+#data
+CNNAutoencoders/cell_images/*
+CNNAutoencoders/x/*
+
 # Distribution / packaging
 .Python
 build/
