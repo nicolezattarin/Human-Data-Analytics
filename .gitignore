@@ -161,3 +161,5 @@ CNNAutoencoders/train_cache.data-00000-of-00001
 CNNAutoencoders/val_cache.data-00000-of-00001
 CNN/datasets/.train_signs.h5.icloud
 CNN/datasets/train_signs.h5
+CNNAutoencoders/cell_images.zip
+CNN/datasets/train_signs.h5
