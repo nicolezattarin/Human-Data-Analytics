@@ -29,5 +29,5 @@ The genetic model strucrure is:
 
 <p float="center">
   <img src="CNNAutoencoders/x/autoencoder.png" width="400" />
-  <img src="CNNAutoencoders/x/images/autoencoder_images.png" width="400" />
+  <img src="CNNAutoencoders/x/autoencoder_images.png" width="400" />
 </p>
