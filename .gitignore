@@ -9,7 +9,6 @@ __pycache__/
 
 #data
 CNNAutoencoders/cell_images/*
-CNNAutoencoders/x/*
 
 # Distribution / packaging
 .Python
