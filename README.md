@@ -28,6 +28,6 @@ The dataset consists of segmented cells from the thin blood smear slide images f
 The genetic model strucrure is:
 
 <p float="center">
-  <img src="CNNAutoencoders/autoencoder.png" width="400" />
-  <img src="CNNAutoencoders/images/autoencoder_images.png" width="400" />
+  <img src="CNNAutoencoders/x/autoencoder.png" width="400" />
+  <img src="CNNAutoencoders/x/images/autoencoder_images.png" width="400" />
 </p>
